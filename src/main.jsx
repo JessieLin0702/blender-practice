@@ -10,6 +10,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <BrowserRouter basename="/blender-practice">
       <App />
     </BrowserRouter>
-  </React.StrictMode>,
+  </React.StrictMode>
 )
 
