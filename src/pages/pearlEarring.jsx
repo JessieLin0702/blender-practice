@@ -44,7 +44,7 @@ export function PearlEarring() {
     loader.setDRACOLoader(dracoLoader);
 
     loader.load(
-      "/blenderFile/PearlEarring-v1.glb",
+      "blenderFile/PearlEarring-v1.glb",
       (glb) => {
         scene.add(glb.scene);
       },
